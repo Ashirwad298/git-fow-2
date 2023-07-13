@@ -3,3 +3,4 @@ console.log("from bugfix vct-1");
 console.log("fromo bugfix vct-2");
 console.log("a new change");
 console.log("chnge 1");
+consolelog("change-2");
